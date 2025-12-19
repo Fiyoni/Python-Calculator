@@ -46,7 +46,7 @@ def calculator():
         choice = input("Enter your Choice: ")
 
         # exit option
-        if choice == 7:
+        if choice == "7":
             print("Calculator is Closed")
             break
         
@@ -84,3 +84,4 @@ def calculator():
 
 # program start karva mate function call
 calculator()
+
